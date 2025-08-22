@@ -33,6 +33,9 @@ This is a compact, reproducible analysis focused on exploratory data analysis (E
 
 ## 📁 Repository Structure
 
+## 📁 Repository Structure
+
+```text
 .
 ├── data/
 │   └── mymoviedb.xls
