@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+xlrd          # needed to read .xls files
+openpyxl      # if you ever read .xlsx files
