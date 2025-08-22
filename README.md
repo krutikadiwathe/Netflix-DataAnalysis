@@ -37,13 +37,10 @@ This is a compact, reproducible analysis focused on exploratory data analysis (E
 
 ```text
 .
-├── data/
-│   └── mymoviedb.xls
-├── notebooks/
-│   └── moviedata-Netflix.ipynb
+├── mymoviedb.xls
+├── moviedata-Netflix.ipynb
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 ---
 
